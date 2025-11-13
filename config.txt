@@ -1,0 +1,31 @@
+# =======================================================
+# Help or Commands provides these directions and commands
+# (Additional commands are supported in the code)
+# =======================================================
+title=The Lost Temple of Pythongoras
+desc=Created by Neil Aitken, Daniel Unruh, & Coco Chen
+version=1.03
+input=keyboard
+font=NotoSans-Regular.ttf
+fontsize=16
+displayfont=IMFePIrm28P.ttf
+displayfontsize=18
+criticalfont=SigmarOne-Regular.ttf
+criticalfontsize=18
+titlefont=IMFePIrm28P.ttf
+titlefontsize=40
+directions=north,west,south,east,n,w,s,e
+new_commands=about,add,ask,attack|fight|hit|kill,close,commands,drink,drop,eat,examine|look,exit|quit,exits,get|take,go,help,hint,inventory|inv,jump,kick,kiss,light,listen,lock,move,open,punch,put,read,remove,say,search,smell,stats,stuck,talk,unlock,use
+commands=about,ask,attack,close,commands,drink,drop,eat,examine,exit,exits,fight,help,hint,hit,inventory,kick,kiss,light,listen,lock,look,move,open,punch,put,quit,read,say,search,smell,stuck,take,talk,unlock
+
+# Start and End Screen Text
+start_screen_text=The Lost Temple of Pythongoras|A Text Adventure|by Neil, Coco, and Daniel|Created Summer 2024
+end_credits_text=Thanks for playing The Temple of Pythongoras!|Created by Neil Aitken, Coco Chen, and Daniel Unruh
+
+# About Message
+msg_about=The Lost Temple of Pythongoras (created by Neil Aitken, Daniel Unruh, and Coco Chen) is a retro text adventure in the tradition of Zork and Colossal Cave Adventure. You navigate the world and interact with people, objects, and the environment by typing simple commands at the prompt.
+msg_help=Type 'commands' to get a list of common commands. Type 'hint' for a clue related to your current room. Try experimenting with different actions that reflect what you would do in the situation. Examples: 'take hammer', 'attack wolf', 'use boat', 'kiss the potato', 'say hello', etc. 
+msg_stuck=Sometimes rooms or objects might be blocked until you solve some sort of puzzle or use the right object. If you're stuck, just type 'hint' for a clue. Text adventure games are often filled with jokes, puns, and silliness. Feel free to try strange things to see what happens.
+
+# Intro Paragraph
+intro_paragraph=You are standing at the entrance of a dark cave.
