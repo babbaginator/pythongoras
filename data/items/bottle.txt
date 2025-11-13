@@ -1,0 +1,8 @@
+name=bottle
+kind=item
+attributes=breakable
+describe_text=An empty bottle that once held a potion
+break_text=You smash the bottle into pieces.  You cut yourself on the shards!
+break_HP=-1
+break_remnant=shards
+smell_text=the potion, but fainter

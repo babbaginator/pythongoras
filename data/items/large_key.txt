@@ -1,0 +1,6 @@
+name=large key
+kind=item
+attributes=key,metal
+describe_text=A large brass key. It feels heavy and important.
+eat_text=You could swallow it, but it would be very awkward and take some time to get back.
+smell_text=brass

@@ -1,0 +1,6 @@
+name=pile of rocks
+kind=pile
+attributes=immovable,heavy,pile
+describe_text=A large pile of rocks ranging from dull and boring to slightly less dull and boring. Some as big as a wagon, others the size of your fist. If they fell on you it would probably hurt a lot.
+contents=rock
+smell_text=rocks

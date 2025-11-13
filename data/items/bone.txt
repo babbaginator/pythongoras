@@ -1,0 +1,7 @@
+name=old bone
+kind=item
+attributes=blunt,bone,plural
+describe_text=An old bone that looks like someone or something has been gnawing on. It feels pretty hefty.
+eat_text=You would rather not. Too dry and dusty for your taste.
+pile=pile of bones
+smell_text=an old, musty bone

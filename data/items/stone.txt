@@ -1,0 +1,8 @@
+name=stone
+kind=item
+attributes=blunt,heavy,immovable,breakable
+describe_text=A large impressive-looking stone made all the more impressive because of the big heroic sword stuck in it. You feel lucky to just look at it.
+eat_text=You think this would be a very bad idea. You would probably break your teeth if you tried.
+remove_sword_script=set describe_text to remove_sword_text
+remove_sword_text=A large impressive-looking stone made all the more impressive because it once held a big heroic sword. Its greatness is somewhat diminished without the sword.
+eat_text=You think this would be a very bad idea. You would probably break your teeth if you tried.

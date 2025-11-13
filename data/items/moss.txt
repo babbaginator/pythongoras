@@ -1,0 +1,7 @@
+name=moss
+kind=item
+attributes=edible,plural
+describe_text=A piece of faintly glowing moss
+eat_text=You eat the moss.  It is bitter and unpleasant, but you feel slightly better.
+eat_script=add HP 1
+smell_text=damp earth

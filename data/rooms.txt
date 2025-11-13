@@ -1,0 +1,9 @@
+starting_room
+jewel_room
+monster_room
+puzzle_room
+snake_room
+sword_room
+dark_room
+mystery_room
+last_space

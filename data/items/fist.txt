@@ -1,0 +1,9 @@
+name=fist
+kind=weapon
+to_hit=4
+damage=3
+describe_text=Your fist looks puny, but it's all the you've got right now.
+hit_text=You land a solid right hook
+miss_text=Your fist sails through the air missing completely.
+eat_text=You're not that hungry yet!
+smell_text=your own skin

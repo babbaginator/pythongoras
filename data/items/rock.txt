@@ -1,0 +1,7 @@
+name=rock
+kind=item
+attributes=blunt,heavy,plural
+describe_text=A dull-colored rock that looks indistinguishable from any other dull-colored rock.
+eat_text=You think you would probably break your teeth if you tried.
+pile=pile of rocks
+smell_text=rock

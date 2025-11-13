@@ -1,0 +1,5 @@
+name=exception
+kind=weapon
+attributes=insect,plural
+describe_text=A weird piece of thorny metal that looks to have been fashioned by accident. Whatever it is, it looks angry. 
+eat_text=You probably don't want to eat this, but you're always welcome to try. You've been warned.

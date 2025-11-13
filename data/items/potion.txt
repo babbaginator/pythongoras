@@ -1,0 +1,10 @@
+name=potion
+describe_text=A bottle of swirling red liquid.  Who knows what will happen if it is drunk?
+kind=item
+attributes=drinkable,breakable
+drink_text=You drink the potion.  You feel new health flow into you!
+break_text=You smash the bottle into pieces.  You cut yourself on the shards!
+drink_script=remove inventory potion;append inventory bottle
+break_script=remove inventory potion;remove inventory bottle;sub HP 1;append inventory shards
+drink_effect=add HP 10
+smell_text=honey, vinegar, and unidentifiable herbs

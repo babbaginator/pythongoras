@@ -1,0 +1,12 @@
+id=mystery_room
+name=Mystery Room
+long_description=You step into a small room of polished stone.  An air of mystery hangs in the air
+short_description=This room feels very mysterious.
+solved_description=This room feels very mysterious.
+map=west:dark_room
+items=chest
+npcs=dwarf
+#solution=use key on chest,unlock chest with key,unlock chest,use key
+#solved_script=run chest unlock_script;print msg_solved
+#msg_solved=The bone key fits smoothly into the lock. When you turn it, the lock disengages.
+hint=The lock of the chest is carved to resemble a skull

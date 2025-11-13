@@ -1,0 +1,10 @@
+id=jewel_room
+name=Jewel Cache
+long_description=You enter a spacious cavern. The walls are covered in glowing moss. A pile of rocks sits at the center of the room.
+short_description=A spacious cavern with moss-covered walls and a rock-strewn floor.
+items=moss,pile of rocks
+hidden=append items gemstone
+hidden_spots=here,room,rocks,pile of rocks
+hidden_state=not found
+map=south:monster_room
+hint=You think you spot a gleam from among the rocks

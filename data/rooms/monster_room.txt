@@ -1,0 +1,7 @@
+id=monster_room
+name=Dark Cavern
+long_description=You enter a dark cavern and hear the ominious clattering of bones. A skeleton, animated by some unnatural force, stands with a sword in hand blocking the path
+short_description=This dark cavern shows signs of a recent battle. Fragments of bone lie strewn across the floor.
+map=east:starting_room,north:jewel_room
+npcs=skeleton
+hint=The skeleton's bones look fragile, and vulnerable to bludgeoning

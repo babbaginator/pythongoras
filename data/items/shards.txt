@@ -1,0 +1,5 @@
+name=shards
+kind=item
+attributes=sharp,plural
+describe_text=A collection of broken glass shards
+eat_text=There are easier ways to die in this cave.

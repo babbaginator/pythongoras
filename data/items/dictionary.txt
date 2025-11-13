@@ -1,0 +1,6 @@
+name=dictionary
+kind=book
+attributes=readable
+describe_text=A gigantic book filled with tiny entries attempting to explain different terms. You feel smarter just reading it.
+read_text=librarian:the sort of person who sorts books for fun,programmer:an obsessive compulsive wizard of logical reductions,lexicographer:a compiler of dictionaries; a harmless drudge
+smell_text=knowledge

@@ -1,0 +1,6 @@
+name=list
+kind=container
+attributes=readable
+describe_text=A long scroll filled with crossed off names. There's plenty of room at the bottom to add more things.
+read_text=Guido van Rossum,Will Crowther,Neil Aitken,Coco Chen,Daniel Unruh,Pythogoras,Jake the Snake,Ouroborus,Colossal Cave Adventure
+smell_text=endlessness

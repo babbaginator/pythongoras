@@ -1,0 +1,11 @@
+id=starting_room
+name=Cave Mouth
+long_description=You approach what appears to be the opening of a dark cave.
+short_description=You are at the entrance of a dark cave.
+map=west:monster_room,east:puzzle_room
+items=lantern
+hint=I have nothing to tell you right now; try exploring a bit!
+north_description=You see a blank wall
+south_description=You see a blank wall
+west_description=You see a tunnel sloping upwards
+east_description=You see a tunnel sloping downwards

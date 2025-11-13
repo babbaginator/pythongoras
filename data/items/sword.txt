@@ -1,0 +1,17 @@
+name=sword
+kind=weapon
+to_hit=8
+damage=9
+attributes=magical,sharp,indestructible,locked
+hit_text=You slash your target viciously with your sword
+miss_text=You slash with the sword, but the blade glances off your opponent
+eat_text=You have no training in sword-swallowing!
+describe_text=A strangely heroic looking sword. 
+unlocked_text=A strangely heroic looking sword. It seems a bit loose now.
+active_text=A strangely heroic looking sword wreathed in brilliant flames.
+taken_text=A strangely heroic looking sword. Well, it looked heroic when it was still in the stone.
+invoke_text=You invoke the power of the sword. Flames burst out of its blade!
+invoke_effect=add to_hit 2
+unlock_script=remove attributes locked;set describe_text to unlocked_text
+taken_script=set describe_text to taken_text;run stone
+smell_text=iron and magic

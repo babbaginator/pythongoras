@@ -1,0 +1,6 @@
+id=snake_room
+name=HISSSS
+long_description=As the cavern wall shifts aside, you find yourself in a hidden area filled with awful stench. From the depths, you hear a loud HISS.
+short_description=You find yourself in the hidden chamber where you encountered the giant python.
+map=south:dark_room,north:last_space
+npcs=python

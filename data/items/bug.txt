@@ -1,0 +1,5 @@
+name=bug
+kind=item
+attributes=insect,plural
+describe_text=A strange looking insect that waves its tiny arms frantically as if trying to stop you.
+eat_text=It tastes like sweat, despair, and anxiety, with a somewhat nutty aftertaste.

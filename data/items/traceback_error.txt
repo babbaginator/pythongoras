@@ -1,0 +1,5 @@
+name=traceback error
+kind=item
+attributes=insect,plural
+describe_text=A sheet of parchment upon which someone has written out a mad conspiracy trying to link a seemingly accidental error back to some nefarious mastermind many steps removed.
+eat_text=You really don't want to eat. All that ink and vellum can't be good for you.

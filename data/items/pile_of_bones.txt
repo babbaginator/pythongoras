@@ -1,0 +1,6 @@
+name=pile of bones
+kind=pile
+attributes=immovable,heavy,pile
+describe_text=A dusty pile of bones that could probably be reconstructed into a complete skeleton or possibly two with a little patience.
+contents=bone
+smell_text=rotting bone

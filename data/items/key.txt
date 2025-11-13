@@ -1,0 +1,6 @@
+name=key
+kind=item
+attributes=key
+describe_text=A small key made out of bone.
+eat_text=You could swallow it, but it would take some time to get it back.
+smell_text=dry bone

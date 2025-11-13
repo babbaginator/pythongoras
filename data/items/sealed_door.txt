@@ -1,0 +1,9 @@
+name=sealed door
+kind=door
+attributes=heavy,immovable,breakable
+describe_text=A huge bronze door on the north wall that looks too heavy to bash through on your own. The engravings on the door depict a gigantic python encircling the world. There appears to be a place to insert a large key.
+lockstate=locked
+openstate=closed
+unlock_key=large key
+msg_unlock=You insert the brass key into the door's lock and turn it. There's a satisfying click as the door unlocks.
+smell_text=old, weathered wood

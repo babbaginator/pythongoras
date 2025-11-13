@@ -1,0 +1,8 @@
+name=foot
+kind=weapon
+to_hit=4
+damage=4
+describe_text=Your feet are lethal weapons, or so people tell you. You're not certain if they are speaking about your kicking ability or their foul odor.
+hit_text=You land a deadly kick to the head.
+miss_text=Your kick fails to connect, leaving you spinning around like a drunken dancer.
+eat_text=You can't figure out how to get your foot to your mouth. You're just not that flexible.

@@ -1,0 +1,6 @@
+name=python tooth
+kind=item
+attributes=sharp
+describe_text=A nasty looking tooth from a nasty-tempered, but very dead giant python.
+eat_text=There's something weird about eating teeth. 
+smell_text=dead meat and acid

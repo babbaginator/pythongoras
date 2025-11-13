@@ -1,0 +1,9 @@
+name=gemstone
+kind=item
+attributes=edible, magical
+describe_text=A sparkling gemstone, clearly extremely valuable
+eat_text=You swallow the gemstone.  At least it will be safe!
+active_text=The gemstone glows softly with a steady pulse. Strange runes float in the air around you.
+invoke_text=You call forth the power of the gemstone.  A shining shield surrounds you!
+invoke_effect=boost AC 2
+smell_text=not much at all

@@ -1,0 +1,12 @@
+id=puzzle_room
+name=Puzzle
+long_description=As you enter this cavern, you see what initially appears to be strange marks on the ground. They appear to form a riddle.
+short_description=A strange riddle has been written on the floor.
+map=west:starting_room,east:sword_room
+texts=riddle
+solution=say silence
+solved_script=add_key map north dark_room;print msg_solved
+solved_description=A strange riddle has been written on the floor. One of the cavern walls has mysteriously opened up revealing a hidden exit.
+msg_solved=As soon as you finish speaking, you hear the cavern walls shake and tremble. Portion of the north wall retracts, revealing a secret chamber.
+riddle=If you speak my name, I am gone|Hold your peace, and I am there
+hint=What is broken when you speak?

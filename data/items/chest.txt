@@ -1,0 +1,12 @@
+name=chest
+kind=container
+attributes=immovable,heavy
+describe_text=A brass-bound oak chest. It looks very solid.
+contents=dictionary,potion,large key
+openstate=closed
+lockstate=locked
+trapstate=untrapped
+unlock_script=set chest lockstate unlocked;set chest openstate open
+unlock_key=key
+msg_unlock=The bone key fits smoothly into the lock and the chest springs open.
+smell_text=wood and brass

@@ -1,0 +1,16 @@
+name=dwarf
+describe_text=A bespectacled dwarf with a long beard and pigtails sits on an iron-bound chest. She is reading a book.
+kind=friendly
+attributes=talkative
+AC=15
+HP=35
+to_hit=4
+damage=8
+hit_text=The dwarf swings her mighty axe and hews through your flesh.
+miss_text=The dwarf's swing goes wide, missing you completely.
+death_text=The dwarf collapses to the ground in a puddle of blood, her left hand briefly fumbling in the air as if reaching for something before falling.
+talk_text=hello
+dialog=dwarf
+corpse=dwarf corpse
+item=book,spectacles
+smell_text=leather, ink, and beard oil

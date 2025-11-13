@@ -1,0 +1,4 @@
+This book says that you can learn to command pythons!  If I study for a few more months, perhaps I can get past the guardian!
+They call these regular expressions, but they sound pretty unusual to me.
+a^2+b^2=c^2
+I haven't been able to get that chest open. If only I had a skeleton key

@@ -1,0 +1,25 @@
+fist|weapon
+bottle|container
+gemstone|item
+potion|item
+shards|item
+sword|weapon
+bone|item
+rock|item
+pile of rocks|pile
+pile_of_bones|pile
+stone|item
+moss|item
+lantern|light
+python_tooth|item
+key|item
+chest|lockbox
+large_key|item
+dictionary|book
+list|container
+sealed_door|door
+giant_python_corpse|container
+bug|item
+exception|item
+traceback_error|item
+foot|weapon

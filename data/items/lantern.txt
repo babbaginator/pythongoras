@@ -1,0 +1,10 @@
+name=lantern
+describe_text=A shiny brass lantern, with an attached flint 
+kind=item
+attributes=lightable,togglable
+active_text=The lantern gives off a bright light illuminating the darkness around you.
+invoke_text_on=You light the lantern.  A bright light surrounds you!
+invoke_text_off=You douse the lantern and find yourself once more engulfed in darkness.
+invoke_effect= toggle lit;toggle in_use
+lit=FALSE
+smell_text=brass and oil

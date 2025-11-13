@@ -1,0 +1,5 @@
+id=last_space
+name=Cave Exit
+long_description=You exit the cave. You have escaped The Temple of Pythongoras!
+short_description=Why have you returned?
+game_exit=True

@@ -1,0 +1,8 @@
+name=python corpse
+kind=container
+openstate=closed
+attributes=heavy,immovable,corpse,edible
+describe_text=The corpse of the once-terrifying gigantic python. Who knows how long it ruled this temple?
+eat_text=You think this would be a very bad idea. At least, not until it is cooked.
+owner=python
+contents=bug,traceback error,exception

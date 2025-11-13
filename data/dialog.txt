@@ -1,0 +1,6 @@
+echoes=echoes.txt
+sounds=sounds.txt
+python=dlg_python.txt
+dwarf=dlg_dwarf_scholar.txt
+default=dlg_default.txt
+
