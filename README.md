@@ -7,6 +7,12 @@ Created Summer 2024 for LIBR 599C, Intro to Python
 #### Project Description:
 _The Lost Temple of Pythongoras_ is a text-based adventure game in the tradition of some of the earliest computer games, such as _Zork_ and _The Colossal Cave Adventure_.  You find yourself in a mysterious subterranean temple, which you must escape, ideally with some treasure under your belt.  Over the course of the game, you will solve puzzles, combat monsters, and discover strange and sometimes useful items. 
 
+#### Fonts:
+To have the game display as intended, you will need to have the following TrueType fonts in the main directory. Otherwise, you can set new fonts in the config.txt file.
+- IMFePIrm28P.ttf
+- NotoSans-Regular.ttf
+- SigmarOne-Regular.ttf
+
 #### Technical Requirements:
 Playing this game requires Python 3.10 or later to be installed. To play, navigate to the game folder and type "python main.py" (or double-click main.py). The folder should also contain the utility.py and dialog.py files which provide additional support functionality. Please preserve the original locations and contents of the files in the "data" folder – moving or altering them may make  the game unplayable.  
 
